@@ -1,4 +1,4 @@
-#FocusFlow
+# FocusFlow
 
 FocusFlow is a simple daily planner built with HTML, CSS, and JavaScript. Add tasks, set priorities and time estimates, and arrange the work you want to get through today. The layout adapts to desktop and mobile screens.
 
